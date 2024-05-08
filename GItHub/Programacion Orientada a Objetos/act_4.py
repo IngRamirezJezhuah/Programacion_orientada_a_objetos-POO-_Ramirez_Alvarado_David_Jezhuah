@@ -2,14 +2,14 @@
 
 print("------------------")
 print(" ")
-print("Calcular el área de un triángulo")
+print("Calcular el área de un circulo")
 print(" ")
 print("------------------")
 
-base = float(input("Dame la base: "))
-altura = float(input("Dame la altura: "))
-
-area = base * altura / 2
+radio = float(input("Dame el radio: "))
+radio2 = radio * radio
+pi = 3.14
+area = pi * radio2 / 2
 
 print("------------------")
 print("El área es:", area)
