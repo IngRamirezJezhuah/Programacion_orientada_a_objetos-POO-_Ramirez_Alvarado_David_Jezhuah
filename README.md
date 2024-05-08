@@ -1,4 +1,4 @@
-Ramirez_Alvarado_David_Jezhuah
+# Ramirez_Alvarado_David_Jezhuah
 Repositorio para la clase de Programacion orientada a objetos
 
 ㅤ／l、
