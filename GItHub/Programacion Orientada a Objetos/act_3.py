@@ -2,7 +2,7 @@
 
 print("------------------")
 print(" ")
-print("Calcular el área de un triángulo")
+print("Calcular el área de un Cuadrado")
 print(" ")
 print("------------------")
 
