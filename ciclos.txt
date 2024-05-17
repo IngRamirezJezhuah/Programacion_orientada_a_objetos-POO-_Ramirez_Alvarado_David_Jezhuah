@@ -1,0 +1,6 @@
+for 
+que sse repita cierta cantidad de veces dependiendo de cual sea la orden que se le haya administrado
+
+while
+es un ciclo que segun cierto valor sea equivalente se repita inlimitada cantidad de veces
+una suma infinitamente hasta un resultado que te puede convencer
